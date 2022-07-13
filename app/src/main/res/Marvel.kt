@@ -1,0 +1,1 @@
+class Marvel : ArrayList<MarvelItem>()
